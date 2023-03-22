@@ -10,4 +10,4 @@
 + 创建并切换分支 `git switch -c <name>`
 + 合并分支 `git merge <name>`
 
-### 解决冲突 bug
+### 解决冲突
